@@ -1,0 +1,12 @@
+*.mov
+*.mp3
+*.aif
+*.mp4
+*.png
+*.obj
+*.fbx
+keys.json
+/Lib
+xmlPicturesFolder/
+xmlOptInFolder/
+picturesFolder/
